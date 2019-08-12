@@ -4,9 +4,7 @@ h1 {color: blue font-size: em}
 
 h2 {color: green;font-weight: normal;font-style: italic;}
 
-.completed {
-  font-family: 12px;
-}
+.completed {font-family: 12px}
 
 #tasks .completed {
   backgound: #ccc;

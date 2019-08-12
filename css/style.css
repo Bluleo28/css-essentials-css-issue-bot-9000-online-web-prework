@@ -1,17 +1,8 @@
-body {
-  background pink;
-}
+body {background pink;}
 
-h1 {
-  color: blue;
-  fontsize: 3em; 
-}
+h1 {color: blue font-size em;}
 
-h2 {
-  color: green;
-  font-weight: normal
-  font-style: italic;
-}
+h2 {color: green;font-weight: normal;font-style: italic;}
 
 .completed {
   font-family: 12px;
